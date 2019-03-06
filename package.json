@@ -1,0 +1,14 @@
+{
+  "name": "@sophek/use-filter-words",
+  "version": "1.0.2",
+  "description": "A react hook to replace bad word in a string.",
+  "license": "MIT",
+  "repository": "sophek/use-filter-words",
+  "main": "index.js",
+  "keywords": [
+    "filtering",
+    "bad words",
+    "cussing",
+    "cleanVid"
+  ]
+}
